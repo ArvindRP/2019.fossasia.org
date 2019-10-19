@@ -1991,7 +1991,7 @@ p.question {
 }
 .map-holder:before {
   content: '';
-  position: absolute;
+  position: top;
   top: 0;
   left: 0;
   width: 100%;
